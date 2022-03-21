@@ -1,3 +1,7 @@
+# Small Shopping Cart 
+This is a basic shopping cart that adds, removes and calculates the total price including tax in the checkout section.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
